@@ -1,0 +1,7 @@
+cmake-build-debug/
+CMakeFiles
+cmake_install.cmake
+CMakeCache.txt
+DAProject2
+
+src/datasets/real-world-graphs/graph3/edges.csv
